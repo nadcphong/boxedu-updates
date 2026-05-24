@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Cập nhật icon ứng dụng mới (logo chữ P).\n- Thay đổi giao diện icon app\n- Cải thiện nhỏ",
-  "pub_date": "2026-05-24T08:45:22Z",
+  "version": "1.0.2",
+  "notes": "Thêm cơ chế API dự phòng tự động.\n- Ưu tiên API key của bạn\n- Tự fallback sang API mặc định khi hết quota\n- Tự hạ model nhẹ hơn khi quá tải",
+  "pub_date": "2026-05-24T12:37:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFVzeFhad1RLYVpBa0tjYmwxd1VjVlZjMGhKS1pmVmRMbVhTTXg4azNmZzRORjVuUTAyVERXdEJmREE5UUd1S09PRXNzczduc09PbzNEUDBFcGEvaHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjEyMTQ5CWZpbGU6Qm94RWR1XzEuMC4xX3g2NC1zZXR1cC5leGUKODFEMFBONUZ4REw3UUFhQ0lic2ZkVHBhUlVPd2FJNkR0VHhKMHRKaHZZOWxQSEd0U1Y3Uk56KzNiUHhUa21DQ0ZQN1FKb2NDcDFDc3U4b24zQzEvQmc9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.1/BoxEdu_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGZaR3FINDhWRFdDSlQ4UjJPZ05vK2Z3QTB2WXNldEtYMEJkTk1qQUdmeTVnUkxiNzZuc0Z2YURCSGdRSjdrb0RpSU1HNS9wYzdHYjBKT1NZbkJ1clFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjI2MjEwCWZpbGU6Qm94RWR1XzEuMC4yX3g2NC1zZXR1cC5leGUKMVJHOVRxRFpLekUxQmpzWmp2emJVTm8wQkNLZzJ2dklSNEw5blFqSTZCQWlKOHpGWDA1Sm9Qa2FsQy9iMmI4SU9COUc2TjE3ekU5NkFtUG9Bb01iQ2c9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.2/BoxEdu_1.0.2_x64-setup.exe"
     }
   }
 }
