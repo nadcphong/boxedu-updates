@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "BoxEdu phiên bản chính thức 1.0.0.\n- Phát hành ổn định\n- Hỗ trợ tự động cập nhật",
-  "pub_date": "2026-05-24T06:50:39Z",
+  "version": "1.0.1",
+  "notes": "Cập nhật icon ứng dụng mới (logo chữ P).\n- Thay đổi giao diện icon app\n- Cải thiện nhỏ",
+  "pub_date": "2026-05-24T08:45:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFo1SHZsVCt2clROVUp6WVkxZHBGTGJBZTQ2QnA4eldIWW1GdjlkLy82SDdRVnRYVzFWeGlicFJsdDNUQTZYMHd0UnJ1ZHlsQzRKeFdCdDdMSjRBdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTk0MjMwCWZpbGU6Qm94RWR1XzEuMC4wX3g2NC1zZXR1cC5leGUKd0M0ZGdkM1hxRk9NVXB0N1FEdDU3NTZBNGJOZUdSNGRHK0dMTVRyaDhWbU5LSEkvbk5mRXIwL0tnUmp1QzY3WmFUQTMwTE9hd2t4bitzdTZyTUZNRFE9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.0/BoxEdu_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFVzeFhad1RLYVpBa0tjYmwxd1VjVlZjMGhKS1pmVmRMbVhTTXg4azNmZzRORjVuUTAyVERXdEJmREE5UUd1S09PRXNzczduc09PbzNEUDBFcGEvaHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjEyMTQ5CWZpbGU6Qm94RWR1XzEuMC4xX3g2NC1zZXR1cC5leGUKODFEMFBONUZ4REw3UUFhQ0lic2ZkVHBhUlVPd2FJNkR0VHhKMHRKaHZZOWxQSEd0U1Y3Uk56KzNiUHhUa21DQ0ZQN1FKb2NDcDFDc3U4b24zQzEvQmc9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.1/BoxEdu_1.0.1_x64-setup.exe"
     }
   }
 }
