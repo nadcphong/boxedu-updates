@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Bản cập nhật thử nghiệm tính năng tự động cập nhật.\n- Kiểm tra cơ chế auto-update\n- Cải thiện nhỏ",
+  "pub_date": "2026-05-24T02:44:43Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFdxbW8zVEVQZUNHNW1LYUMzQWlGN0x1Z0JkV0EzWTMzUHlnRlpBNU5tbTR4RGpnN2tlSERzRWZncXNjNEtSR0c3RVdzc3pBaWtjcTYwa0dxVWdDMUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTkwMzExCWZpbGU6Qm94RWR1XzAuMi4wX3g2NC1zZXR1cC5leGUKbTM5ZjVSTW9DZ2FoRm9wdmFyZDBrc1laZ1U3ajhmMHJNeU5zOTF2K013YTZkdy9LNkRQMW1XRS9VamtqSUtsN244TFFmSGFoZVczMy92aWtucW1KRHc9PQo=",
+      "url": "https://github.com/nadcphong/boxedu/releases/download/v0.2.0/BoxEdu_0.2.0_x64-setup.exe"
+    }
+  }
+}
