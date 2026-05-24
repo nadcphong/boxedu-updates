@@ -1,11 +1,19 @@
 {
-  "version": "1.0.3",
-  "notes": "Cập nhật icon ứng dụng mới (logo chữ P phong cách kính).",
-  "pub_date": "2026-05-24T12:44:53Z",
+  "version": "1.0.5",
+  "notes": "Cập nhật icon mới + cơ chế API dự phòng tự động. Hỗ trợ cả Windows và macOS.",
+  "pub_date": "2026-05-24T14:19:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGQ2YmRvZFNQSDJXK0cwQlZHTS9SNmtZOFh4Wnp0cFhuMXBubXRzZGN6Rzl3SUVLUW9uTDBMeWhIa09Jd3NaWlJ6UGNyMWp3ZjRYakJsdG9nSFdGUVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjI2NjgzCWZpbGU6Qm94RWR1XzEuMC4zX3g2NC1zZXR1cC5leGUKSng0cUV0b1VSNURmUGV0NjFUcjBSRVVPeEE0cFZFeG5LZm5wdG9QY1d0Lytwd2lHOGMwRWdxR21WdmtiME42MEdLNWJOMGNkaGpia0kzcy8vK3crQWc9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.3/BoxEdu_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGVKbnI4K1hRSXhNSld6WGdidUpkWXp6RzMzOUlIbTN5OGlIdnkraGdVVUk0d0RmS0d0KzVNT1BjUTdab21xREI3L3UyNDk0ZDc3MW1lL2dFWXpyWUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjMxMTA3CWZpbGU6Qm94RWR1XzEuMC41X3g2NC1zZXR1cC5leGUKOWFNTTRWbURGKzAzbm9nQ29kMmx3d1g0YmhDbitXd1E0VVRRMjJHNythWW55Y0hpblNvS2syTGlZZEF1MlJYTlo0eVVmODFWZFNUS3d0TWNCRlE4QVE9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.5/BoxEdu_1.0.5_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFFHZy8zZ2tWcGNubitkTGFldkxYZmwrWHIzWWc5bmo1WjMzbTFTQTdwR2pPQ0Y4cmM5cWFZWnB4UTdyUzNadDBEMnhlWTZwVzgvU25JVUxYUjl4MWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjMwNjQzCWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKTU5tUE5ROEFkU2hXMC8ybUhJNGVOR2RpUE0zZzRXTXh4QjM1U2xwTWlwYkg5d3BLYjV1YWJ5aFMvUUNESFgrbHZWUk5GMFF1dDZxRk9xYUtUdXpuQVE9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.5/BoxEdu.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFFHZy8zZ2tWcGNubitkTGFldkxYZmwrWHIzWWc5bmo1WjMzbTFTQTdwR2pPQ0Y4cmM5cWFZWnB4UTdyUzNadDBEMnhlWTZwVzgvU25JVUxYUjl4MWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjMwNjQzCWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKTU5tUE5ROEFkU2hXMC8ybUhJNGVOR2RpUE0zZzRXTXh4QjM1U2xwTWlwYkg5d3BLYjV1YWJ5aFMvUUNESFgrbHZWUk5GMFF1dDZxRk9xYUtUdXpuQVE9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.5/BoxEdu.app.tar.gz"
     }
   }
 }
