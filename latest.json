@@ -1,19 +1,19 @@
 {
-  "version": "1.0.7",
-  "notes": "BoxEdu v1.0.7",
-  "pub_date": "2025-05-25T00:00:00Z",
+  "version": "1.0.8",
+  "notes": "Sửa nhiều lỗi: SKKN dùng đúng API key; xuất Word (Phiếu học tập/PDF/Đề kiểm tra) chuẩn; ma trận khổ ngang, bảng liền; ẩn nút khi chưa có dữ liệu; chống gọi API 2 lần.",
+  "pub_date": "2026-05-25T11:31:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFM0Sms0UGx3YzJ2OFJvWHJhL3pWaFFiU2R2Q0Z3cnRKNUhLL3VCOUJCemVrQTczcE1MUW45cW5kRHE1Q2d5dG9icnZvblUra2FvaE5LUU5kTXV4bkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY0NjU0CWZpbGU6Qm94RWR1XzEuMC43X3g2NC1zZXR1cC5leGUKN1dJbForb3JENG9EL3VVMzR4YlV1TW9UaUtTM1FYL1lqRGJZRFV5YmszTkpvaFJqdEJ6b2VWTVNlNGlYZ0hlblprNlgrTU9VdTJPSU5yNGFIa1ZOQ2c9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.7/BoxEdu_1.0.7_x64-setup.exe"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGNySVFGTDNWVzBGcVVvMlMrY2dmOTFNaWR6MnNYTndTNVlSNWpBU2xQQUxBSmNQQnFnV2hsYUUzTHNUb2NHVUFJKyt5SFkxZDEwSkFpUGRRODF6V3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY0MzA5CWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKWlBHRnh4dDE3YTUrSkIzTTA3QUhlaEk2SjBMS0hjWnd4MU9PUkI3ZytrUU8rR3hNOE1kK3RhK1pSZzlTZjFodXVuRnZQNklPeWkxQUt2TGNURjFUQmc9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.7/BoxEdu.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFIzUG5ZWThGRHJ4cnErNTBKd29Gb3F4WXNOa2hIZlpwKzlqcUVGVng5aFNva01zOU5pYkpsVVJoSlRsRld5VmpiZEJlUXB1d3Vjc240b1QxdjdGcndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzA3OTM4CWZpbGU6Qm94RWR1XzEuMC44X3g2NC1zZXR1cC5leGUKRHpUTmcxeHo0N1BEQkxUQzlzd2hrMDhXVHZHbk5yclJXdXRTSkRaRExmcUZRMk9qVjN1VUpKQUdFaG5oRlp2OWQyQ29aSW5YQVZ5bnFvWEhoYlJrQ1E9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.8/BoxEdu_1.0.8_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGNySVFGTDNWVzBGcVVvMlMrY2dmOTFNaWR6MnNYTndTNVlSNWpBU2xQQUxBSmNQQnFnV2hsYUUzTHNUb2NHVUFJKyt5SFkxZDEwSkFpUGRRODF6V3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY0MzA5CWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKWlBHRnh4dDE3YTUrSkIzTTA3QUhlaEk2SjBMS0hjWnd4MU9PUkI3ZytrUU8rR3hNOE1kK3RhK1pSZzlTZjFodXVuRnZQNklPeWkxQUt2TGNURjFUQmc9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.7/BoxEdu.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFFHQSt6ckViaVUyblZwRThoTmdha3krMkVHTjh6bzFQbCtsUEI1Rld1ZEpBUFBXc1BOQ1owWHRTSjB3Vk9tY1F5WU1oSGVmdU1KdmNEVk9GSGZ5T2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzA3MzkxCWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKQ2dXQUFTODFTNlJ0VTJWUVVVSjNnd2hQODlRb3lGcmVZWDJodzVBRVdKazFpZTU5MHoyN3pwVEEzL09MWWk0N0VQa2VCanB1bWZPZVdXejhZS1dUQlE9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.8/BoxEdu.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFFHQSt6ckViaVUyblZwRThoTmdha3krMkVHTjh6bzFQbCtsUEI1Rld1ZEpBUFBXc1BOQ1owWHRTSjB3Vk9tY1F5WU1oSGVmdU1KdmNEVk9GSGZ5T2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzA3MzkxCWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKQ2dXQUFTODFTNlJ0VTJWUVVVSjNnd2hQODlRb3lGcmVZWDJodzVBRVdKazFpZTU5MHoyN3pwVEEzL09MWWk0N0VQa2VCanB1bWZPZVdXejhZS1dUQlE9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.8/BoxEdu.app.tar.gz"
     }
   }
 }
