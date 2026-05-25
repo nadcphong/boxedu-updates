@@ -1,19 +1,19 @@
 {
-  "version": "1.0.5",
-  "notes": "Cập nhật icon mới + cơ chế API dự phòng tự động. Hỗ trợ cả Windows và macOS.",
-  "pub_date": "2026-05-24T14:19:31Z",
+  "version": "1.0.7",
+  "notes": "BoxEdu v1.0.7",
+  "pub_date": "2025-05-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGVKbnI4K1hRSXhNSld6WGdidUpkWXp6RzMzOUlIbTN5OGlIdnkraGdVVUk0d0RmS0d0KzVNT1BjUTdab21xREI3L3UyNDk0ZDc3MW1lL2dFWXpyWUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjMxMTA3CWZpbGU6Qm94RWR1XzEuMC41X3g2NC1zZXR1cC5leGUKOWFNTTRWbURGKzAzbm9nQ29kMmx3d1g0YmhDbitXd1E0VVRRMjJHNythWW55Y0hpblNvS2syTGlZZEF1MlJYTlo0eVVmODFWZFNUS3d0TWNCRlE4QVE9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.5/BoxEdu_1.0.5_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFFHZy8zZ2tWcGNubitkTGFldkxYZmwrWHIzWWc5bmo1WjMzbTFTQTdwR2pPQ0Y4cmM5cWFZWnB4UTdyUzNadDBEMnhlWTZwVzgvU25JVUxYUjl4MWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjMwNjQzCWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKTU5tUE5ROEFkU2hXMC8ybUhJNGVOR2RpUE0zZzRXTXh4QjM1U2xwTWlwYkg5d3BLYjV1YWJ5aFMvUUNESFgrbHZWUk5GMFF1dDZxRk9xYUtUdXpuQVE9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.5/BoxEdu.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFM0Sms0UGx3YzJ2OFJvWHJhL3pWaFFiU2R2Q0Z3cnRKNUhLL3VCOUJCemVrQTczcE1MUW45cW5kRHE1Q2d5dG9icnZvblUra2FvaE5LUU5kTXV4bkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY0NjU0CWZpbGU6Qm94RWR1XzEuMC43X3g2NC1zZXR1cC5leGUKN1dJbForb3JENG9EL3VVMzR4YlV1TW9UaUtTM1FYL1lqRGJZRFV5YmszTkpvaFJqdEJ6b2VWTVNlNGlYZ0hlblprNlgrTU9VdTJPSU5yNGFIa1ZOQ2c9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.7/BoxEdu_1.0.7_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcFFHZy8zZ2tWcGNubitkTGFldkxYZmwrWHIzWWc5bmo1WjMzbTFTQTdwR2pPQ0Y4cmM5cWFZWnB4UTdyUzNadDBEMnhlWTZwVzgvU25JVUxYUjl4MWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjMwNjQzCWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKTU5tUE5ROEFkU2hXMC8ybUhJNGVOR2RpUE0zZzRXTXh4QjM1U2xwTWlwYkg5d3BLYjV1YWJ5aFMvUUNESFgrbHZWUk5GMFF1dDZxRk9xYUtUdXpuQVE9PQo=",
-      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.5/BoxEdu.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGNySVFGTDNWVzBGcVVvMlMrY2dmOTFNaWR6MnNYTndTNVlSNWpBU2xQQUxBSmNQQnFnV2hsYUUzTHNUb2NHVUFJKyt5SFkxZDEwSkFpUGRRODF6V3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY0MzA5CWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKWlBHRnh4dDE3YTUrSkIzTTA3QUhlaEk2SjBMS0hjWnd4MU9PUkI3ZytrUU8rR3hNOE1kK3RhK1pSZzlTZjFodXVuRnZQNklPeWkxQUt2TGNURjFUQmc9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.7/BoxEdu.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWWE2cWNBbTlmcGNySVFGTDNWVzBGcVVvMlMrY2dmOTFNaWR6MnNYTndTNVlSNWpBU2xQQUxBSmNQQnFnV2hsYUUzTHNUb2NHVUFJKyt5SFkxZDEwSkFpUGRRODF6V3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjY0MzA5CWZpbGU6Qm94RWR1LmFwcC50YXIuZ3oKWlBHRnh4dDE3YTUrSkIzTTA3QUhlaEk2SjBMS0hjWnd4MU9PUkI3ZytrUU8rR3hNOE1kK3RhK1pSZzlTZjFodXVuRnZQNklPeWkxQUt2TGNURjFUQmc9PQo=",
+      "url": "https://github.com/nadcphong/boxedu-updates/releases/download/v1.0.7/BoxEdu.app.tar.gz"
     }
   }
 }
