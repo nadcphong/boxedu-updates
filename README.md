@@ -2,7 +2,7 @@
 
 **BoxEdu** là nền tảng học tập thông minh và trợ lý đắc lực dành cho giáo viên. Ứng dụng cung cấp các công cụ tự động hóa và thiết kế bài giảng sáng tạo, giúp việc truyền đạt kiến thức trở nên trực quan và hiệu quả hơn.
 
-Được tích hợp sức mạnh từ mô hình ngôn ngữ **Google Gemini 2.5 Flash**, BoxEdu tối ưu hóa tốc độ xử lý và mang lại trải nghiệm tương tác mượt mà nhất.
+Được tích hợp sức mạnh từ mô hình ngôn ngữ **AI**, BoxEdu tối ưu hóa tốc độ xử lý và mang lại trải nghiệm tương tác mượt mà nhất.
 
 ---
 
