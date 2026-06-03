@@ -49,7 +49,7 @@ Sinh ngân hàng câu hỏi trắc nghiệm, đúng/sai, tự luận theo 4 mứ
 </td>
 <td width="50%" valign="top">
 
-### 📝 Giáo án & Ma trận đặc tả
+### 📝 Kế hoạch bài dạy & Ma trận đặc tả
 Soạn kế hoạch bài dạy logic, khoa học và lập **ma trận đặc tả** đề kiểm tra chỉ trong vài giây.
 
 </td>
